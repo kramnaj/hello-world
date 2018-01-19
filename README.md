@@ -1,2 +1,5 @@
 # hello-world
-creating my first git hub repository
+int greet as string 
+greet = "Welcome to github helloworld"
+greet2 = "just a commit button"
+
